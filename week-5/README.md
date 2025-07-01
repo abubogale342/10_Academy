@@ -1,18 +1,23 @@
----
 ## Credit Scoring Business Understanding
+
+---
+
+---
 
 Credit risk is the possibility of a loss occurring from a borrower's failure to repay a loan or meet contractual obligations. Effective credit risk management is crucial for financial institutions to maintain stability and profitability.
 
 ### How does the Basel II Accord’s emphasis on risk measurement influence our need for an interpretable and well-documented model?
 
+---
+
 The **Basel II Capital Accord** significantly influenced the banking sector by emphasizing advanced approaches to **risk measurement**, particularly for credit risk. Under Basel II, banks are encouraged to use internal ratings-based (IRB) approaches, requiring them to develop their own models for estimating key risk parameters like Probability of Default (PD), Loss Given Default (LGD), and Exposure at Default (EAD).
 
 This emphasis on internal models directly necessitates **interpretable and well-documented models** for several reasons:
 
-* **Regulatory Scrutiny and Validation:** Basel II requires rigorous validation of internal models by regulators. Interpretable models allow regulators and auditors to understand the underlying logic, assumptions, and calculations, ensuring the model's soundness, fairness, and compliance with regulations. Without interpretability, validating complex models becomes a "black box" exercise, making it difficult to assess their reliability and potential biases.
-* **Risk Management and Decision Making:** For internal risk management, an interpretable model helps credit officers and management understand *why* a particular credit decision is made. This understanding is critical for effective decision-making, identifying risk drivers, and implementing appropriate risk mitigation strategies. **Well-documented models** provide transparency regarding data sources, methodology, development, and ongoing monitoring, which is essential for consistent application and management over time.
-* **Accountability and Fairness:** Interpretability is crucial for ensuring fairness and avoiding discrimination, especially when models are used for decisions affecting consumers. If a model's decisions cannot be explained, it becomes challenging to address issues like bias or to justify decisions to affected individuals.
-* **Model Governance and Evolution:** Comprehensive documentation supports robust **model governance frameworks**, which are essential for managing the entire lifecycle of a credit risk model, including its development, implementation, validation, and ongoing monitoring. Good documentation facilitates model reviews, updates, and knowledge transfer, ensuring the model remains fit for purpose as market conditions and regulatory requirements evolve.
+- **Regulatory Scrutiny and Validation:** Basel II requires rigorous validation of internal models by regulators. Interpretable models allow regulators and auditors to understand the underlying logic, assumptions, and calculations, ensuring the model's soundness, fairness, and compliance with regulations. Without interpretability, validating complex models becomes a "black box" exercise, making it difficult to assess their reliability and potential biases.
+- **Risk Management and Decision Making:** For internal risk management, an interpretable model helps credit officers and management understand _why_ a particular credit decision is made. This understanding is critical for effective decision-making, identifying risk drivers, and implementing appropriate risk mitigation strategies. **Well-documented models** provide transparency regarding data sources, methodology, development, and ongoing monitoring, which is essential for consistent application and management over time.
+- **Accountability and Fairness:** Interpretability is crucial for ensuring fairness and avoiding discrimination, especially when models are used for decisions affecting consumers. If a model's decisions cannot be explained, it becomes challenging to address issues like bias or to justify decisions to affected individuals.
+- **Model Governance and Evolution:** Comprehensive documentation supports robust **model governance frameworks**, which are essential for managing the entire lifecycle of a credit risk model, including its development, implementation, validation, and ongoing monitoring. Good documentation facilitates model reviews, updates, and knowledge transfer, ensuring the model remains fit for purpose as market conditions and regulatory requirements evolve.
 
 ---
 
